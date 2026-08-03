@@ -36,6 +36,8 @@ Every project is an opportunity to learn something new and push my skills furthe
 
 </p>
 
+---
+
 <!-- ========================================================= -->
 <!--                    DEVELOPER DASHBOARD                    -->
 <!-- ========================================================= -->
@@ -85,5 +87,90 @@ src="https://github-readme-stats.vercel.app/api?username=Kaushall2244&show_icons
 </tr>
 
 </table>
+
+---
+
+# 🎯 Current Mission
+
+```yaml
+Mission:
+  Build premium software.
+
+Objective:
+  Become a Full Stack Developer.
+
+Secondary Objective:
+  AI Engineering.
+
+Creative Goal:
+  Build cinematic animations using Blender & UE5.
+
+Long Term:
+  Software Engineer
+  Creative Technologist
+```
+
+---
+
+# 🚀 Current Build
+
+| Project | Status | Progress |
+|----------|--------|----------|
+| 🌌 Premium Portfolio | 🟢 Active | ██████████ 95% |
+| 📅 DayFlow | 🟢 Active | █████████░ 90% |
+| 📍 TrackSphere | 🟡 Improving | █████████░ 88% |
+| 👁 VisionMate AI | 🟡 Development | ████████░░ 82% |
+
+---
+
+# 💻 Developer Console
+
+```bash
+
+> Booting KaushallOS...
+
+██████████████████████████
+
+Loading Java...
+
+Loading React...
+
+Loading Spring Boot...
+
+Loading Blender...
+
+Loading Unreal Engine...
+
+Loading Creativity...
+
+System Ready.
+
+Welcome back, Kaushall.
+
+```
+
+---
+
+# 🎮 Beyond Coding
+
+```text
+
+🚗 Cars
+
+🎬 Animation
+
+🎨 UI Design
+
+🎮 Gaming
+
+⚽ Football
+
+🎵 Music
+
+📷 Cinematics
+
+☕ Coffee
+
+```
 
 ---
