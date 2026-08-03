@@ -12,9 +12,9 @@
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-ccff00?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/BUILDING-DayFlow-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BUILDING-Protfolio-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-Full%20Stack-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB-Devlopment-222222?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LOCATION-India-333333?style=for-the-badge"/>
 
@@ -63,7 +63,7 @@ Every project is an opportunity to learn something new and push my skills furthe
 
 🚀 CURRENT     : Building Premium Portfolio
 
-📚 LEARNING    : Spring Boot • AI • Next.js
+📚 LEARNING    : JavaScript (Advance) • Next.js
 
 🎬 HOBBY       : Animation & Editing
 
@@ -100,7 +100,7 @@ Objective:
   Become a Full Stack Developer.
 
 Secondary Objective:
-  AI Engineering.
+  Front-end Developer.
 
 Creative Goal:
   Build cinematic animations using Blender & UE5.
