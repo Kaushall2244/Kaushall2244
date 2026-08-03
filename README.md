@@ -14,7 +14,7 @@
 
 <img src="https://img.shields.io/badge/BUILDING-Protfolio-111111?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/FOCUS-WEB-Devlopment-222222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB Devlopment-222222?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/LOCATION-India-333333?style=for-the-badge"/>
 
