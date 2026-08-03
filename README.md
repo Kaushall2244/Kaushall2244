@@ -1,176 +1,89 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/> Hi, I'm **Kaushall**
+<!-- ========================================================= -->
+<!--                  KAUSHALL OS v4.0                         -->
+<!-- ========================================================= -->
 
-### 💻 Computer Science & Engineering Student | 🌐 Full-Stack Developer | 🎬 3D Artist | 🎨 UI/UX Enthusiast
+<h1 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=42&duration=3000&pause=800&color=CCFF00&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B+I'm+Kaushall;Computer+Science+Engineer;Full+Stack+Developer;Creative+Developer;UI%2FUX+Designer;3D+Artist;Building+Premium+Experiences" />
+
+</h1>
 
 <p align="center">
 
-I'm passionate about building modern web applications, designing immersive digital experiences, and combining software engineering with creativity. Whether it's developing scalable applications, creating cinematic animations, or crafting beautiful interfaces, I enjoy turning ideas into products that people love to use.
+<img src="https://img.shields.io/badge/STATUS-ONLINE-ccff00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/BUILDING-DayFlow-111111?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/FOCUS-Full%20Stack-222222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LOCATION-India-333333?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 🚀 About Me
+<h3 align="center">
 
-* 🎓 Computer Science & Engineering Student
-* 🌱 Continuously learning modern technologies
-* 💻 Passionate about Full-Stack Development
-* 🎨 UI/UX Design Enthusiast
-* 🎬 Blender & Unreal Engine 5 Creator
-* 📹 Professional Video Editor
-* 🚗 Car Enthusiast
-* ⚽ Football Lover
-* 🎧 Coding with music always on
+💻 Computer Science Student • 🚀 Full Stack Developer • 🎬 Animator • 🎨 UI/UX Designer
 
----
-
-# 🎯 Current Focus
-
-✔ Building premium web applications
-
-✔ Learning scalable backend development
-
-✔ Exploring AI & Computer Vision
-
-✔ Creating cinematic portfolio experiences
-
-✔ Improving UI/UX design skills
-
-✔ Working on real-world software projects
-
----
-
-# 🏆 Featured Projects
-
-### 🚀 DayFlow
-
-A smart productivity platform for task management, habit tracking and intelligent planning.
-
-**Tech:** Java • Spring Boot • React • MySQL
-
----
-
-### 👁️ VisionMate AI
-
-AI-powered assistant for visually impaired users using Computer Vision and Speech Technologies.
-
-**Tech:** Python • OpenCV • TensorFlow • Android
-
----
-
-### 📍 TrackSphere
-
-Real-time location sharing platform with Firebase and Mapbox integration.
-
-**Tech:** Java • Firebase • Android • Mapbox
-
----
-
-### 🌌 Premium Portfolio
-
-Interactive portfolio featuring cinematic animations, immersive UI and premium web experiences.
-
-**Tech:** Next.js • TypeScript • Tailwind CSS • Framer Motion
-
----
-
-# 💻 Tech Stack
-
-### 🌐 Frontend
-
-* HTML5
-* CSS3
-* JavaScript
-* React
-* Next.js
-* Tailwind CSS
-* TypeScript
-
-### ⚙ Backend
-
-* Java
-* Spring Boot
-* PHP
-* Node.js
-* REST APIs
-
-### 🗄 Database
-
-* MySQL
-* MongoDB
-* Firebase
-
-### 🤖 AI & Computer Vision
-
-* Python
-* OpenCV
-* TensorFlow
-* YOLO
-
-### 🎨 Design & Creative
-
-* Blender
-* Unreal Engine 5
-* Premiere Pro
-* Figma
-* Canva
-* Photoshop
-* Illustrator
-
-### 🛠 Tools
-
-* Git
-* GitHub
-* VS Code
-* Netlify
-* Vercel
-* WordPress
-
----
-
-# 📊 GitHub Statistics
+</h3>
 
 <p align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=Kaushall2244&theme=transparent&hide_border=true"/>
+I love creating premium software, immersive interfaces and cinematic digital experiences.
 
-<img src="https://streak-stats.demolab.com/?user=Kaushall2244&theme=transparent&hide_border=true"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kaushall2244&layout=compact&theme=transparent&hide_border=true"/>
+Every project is an opportunity to learn something new and push my skills further.
 
 </p>
 
+<!-- ========================================================= -->
+<!--                    DEVELOPER DASHBOARD                    -->
+<!-- ========================================================= -->
+
+# ⚡ KAUSHALL OS
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🧠 Developer Status
+
+```text
+🟢 STATUS      : ONLINE
+
+💻 ROLE        : Full Stack Developer
+
+🎓 EDUCATION   : Computer Science Engineering
+
+🌍 LOCATION    : India
+
+🚀 CURRENT     : Building Premium Portfolio
+
+📚 LEARNING    : Spring Boot • AI • Next.js
+
+🎬 HOBBY       : Animation & Editing
+
+☕ COFFEE      : █████████░ 90%
+
+🔥 MOTIVATION  : ██████████ 100%
+
+💡 CREATIVITY  : ██████████ 100%
+```
+
+</td>
+
+<td width="50%">
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Kaushall2244&show_icons=true&theme=transparent&hide_border=true"
+/>
+
+</td>
+
+</tr>
+
+</table>
+
 ---
-
-# 🌐 Connect With Me
-
-* 📧 **Email:** [githeshkaushall@gmail.com](mailto:githeshkaushall@gmail.com)
-* 💼 **LinkedIn:** https://linkedin.com/in/Kaushall%20S
-* 📸 **Instagram:** https://instagram.com/__as.al__22
-
----
-
-# 🎵 Beyond Coding
-
-When I'm away from the keyboard you'll probably find me:
-
-* 🚗 Exploring cars and automotive design
-* 🎬 Creating animations
-* 🎮 Playing games
-* ⚽ Playing football
-* 🎧 Listening to music
-* ✈ Dreaming up the next project
-
----
-
-# ✨ Favorite Quote
-
-> "The best way to predict the future is to build it."
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Kaushall2244&label=Profile%20Views&color=84cc16&style=for-the-badge"/>
-
-</p>
