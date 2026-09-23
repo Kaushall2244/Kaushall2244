@@ -5,7 +5,7 @@
 <!-- ========================================================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&duration=3000&pause=800&color=ff0000&center=true&vCenter=true&width=850&height=70&lines=Hi+%F0%9F%91%8B+I'm+S+Kaushall;Computer+Science+Engineering+Student;Web+%26+Software+Developer;Creative+Developer;Building+Digital+Experiences" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=40&duration=3000&pause=800&color=fff&center=true&vCenter=true&width=850&height=70&lines=Hi+%F0%9F%91%8B+I'm+S+Kaushall;Computer+Science+Engineering+Student;Web+%26+Software+Developer;Creative+Developer;Building+Digital+Experiences" />
 </h1>
 
 <p align="center">
